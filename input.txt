@@ -1,0 +1,4 @@
+int a = 5;
+if (a < 10) {
+    return a + 2;
+}
